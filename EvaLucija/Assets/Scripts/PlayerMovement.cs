@@ -7,15 +7,18 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public float moveSpeed = 5f;
-    public float jumpPower = 10f;
+    public float moveSpeed = 20f;
+    public float jumpPower = 40f;
 
     private Animator animator;
 
     SpriteRenderer spriteRenderer;
 
     [SerializeField] Milk milk;
+    //[SerializeField] Rattle rattle;
+   // [SerializeField] Crayons crayons;
     public bool milkCollected = false;
+    public bool rattleCollected = false;
 
 
 
@@ -24,6 +27,8 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheckPos;
     public Vector2 groundCheckSize = new Vector2(0.5f, 0.05f);
     public LayerMask groundLayer;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -42,7 +47,10 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
+
             animator.SetBool("isWalking", false);
+
+
         }
         Vector3 scale = transform.localScale;
         if (rb.linearVelocity.x > 0)
@@ -54,16 +62,18 @@ public class PlayerMovement : MonoBehaviour
             scale.x = -Mathf.Abs(scale.x);
         }
         transform.localScale = scale;
+
+        GroundCheck();
     }
 
     public void Move(InputAction.CallbackContext context)
     {
         horizontalMovement = context.ReadValue<Vector2>().x;
     }
-    
+
     public void Jump(InputAction.CallbackContext context)
     {
-        if (isGrounded() && milkCollected)
+        if (jumpRemaining > 0 && milkCollected)
         {
             {
 
@@ -71,21 +81,23 @@ public class PlayerMovement : MonoBehaviour
             if (context.performed)
             {
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+                jumpRemaining--;
             }
         }
         if (context.canceled)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            jumpRemaining--;
         }
     }
 
-    private bool isGrounded()
+    private void GroundCheck()
     {
         if (Physics2D.OverlapBox(groundCheckPos.position, groundCheckSize, 0, groundLayer))
         {
-            return true;
+            jumpRemaining = maxJumps;
         }
-        return false;
+        
     }
 
     private void OnDrawGizmosSelected()
@@ -107,5 +119,18 @@ public class PlayerMovement : MonoBehaviour
             milkCollected = true;
             milk.destroyMilk();
         }
+        //if (collision.gameObject.name == "Rattle")
+        //{
+        //    rattleCollected = true;
+        //    rattle.destroyRattle();
+        //}
+        //if (collision.gameObject.name == "Crayons")
+        //{
+        //    crayons.DestroyCrayons();
+        //}
     }
+
+    public int maxJumps = 2;
+    int jumpRemaining;
+
 }
