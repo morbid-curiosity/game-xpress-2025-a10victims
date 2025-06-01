@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 16f78aba97fad1540a0f8774135dacf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4814427760502927067
+    second: hodanjemutation4_0
+  - first:
+      213: -1450016300482338572
+    second: hodanjemutation4_1
+  - first:
+      213: -7803747509956126988
+    second: hodanjemutation4_2
+  - first:
+      213: 96779652218162694
+    second: hodanjemutation4_3
+  - first:
+      213: 594356495098004551
+    second: hodanjemutation4_4
+  - first:
+      213: 9095192380132646196
+    second: hodanjemutation4_5
+  - first:
+      213: 533805126027928743
+    second: hodanjemutation4_6
+  - first:
+      213: -4062003696653421440
+    second: hodanjemutation4_7
+  - first:
+      213: -1434744996971260427
+    second: hodanjemutation4_8
+  - first:
+      213: -8277804202818015310
+    second: hodanjemutation4_9
+  - first:
+      213: 3441346624345597610
+    second: hodanjemutation4_10
+  - first:
+      213: -6928188465090477993
+    second: hodanjemutation4_11
+  - first:
+      213: -1029097506145660224
+    second: hodanjemutation4_12
+  - first:
+      213: 6924614033713071657
+    second: hodanjemutation4_13
+  - first:
+      213: 7453656575840797980
+    second: hodanjemutation4_14
+  - first:
+      213: 8997269774419275144
+    second: hodanjemutation4_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hodanjemutation4_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 961
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6e8d4a8840d240800000000000000
+      internalID: 4814427760502927067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 969
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f069337bd180ebe0800000000000000
+      internalID: -1450016300482338572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 940
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d9385cf483b390800000000000000
+      internalID: -7803747509956126988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 939
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e03f7b494d75100800000000000000
+      internalID: 96779652218162694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 950
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744434055149f3800800000000000000
+      internalID: 594356495098004551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 930
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d55a5084d983e70800000000000000
+      internalID: 9095192380132646196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 30
+        width: 518
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46d241fe4786700800000000000000
+      internalID: 533805126027928743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 908
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08436a8c82dd0a7c0800000000000000
+      internalID: -4062003696653421440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_8
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 933
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f55240e603c61ce0800000000000000
+      internalID: -1434744996971260427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 517
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfebca6fe45f1d80800000000000000
+      internalID: -8277804202818015310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 553
+        width: 31
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6eb15958e12cf20800000000000000
+      internalID: 3441346624345597610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 683
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c2515c412adf90800000000000000
+      internalID: -6928188465090477993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_12
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 6
+        width: 530
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c292f24549e7b1f0800000000000000
+      internalID: -1029097506145660224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_13
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 487
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926072686cb291060800000000000000
+      internalID: 6924614033713071657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 472
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ceb02a25b07760800000000000000
+      internalID: 7453656575840797980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hodanjemutation4_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dae94b039bcdc70800000000000000
+      internalID: 8997269774419275144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hodanjemutation4_0: 4814427760502927067
+      hodanjemutation4_1: -1450016300482338572
+      hodanjemutation4_10: 3441346624345597610
+      hodanjemutation4_11: -6928188465090477993
+      hodanjemutation4_12: -1029097506145660224
+      hodanjemutation4_13: 6924614033713071657
+      hodanjemutation4_14: 7453656575840797980
+      hodanjemutation4_15: 8997269774419275144
+      hodanjemutation4_2: -7803747509956126988
+      hodanjemutation4_3: 96779652218162694
+      hodanjemutation4_4: 594356495098004551
+      hodanjemutation4_5: 9095192380132646196
+      hodanjemutation4_6: 533805126027928743
+      hodanjemutation4_7: -4062003696653421440
+      hodanjemutation4_8: -1434744996971260427
+      hodanjemutation4_9: -8277804202818015310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

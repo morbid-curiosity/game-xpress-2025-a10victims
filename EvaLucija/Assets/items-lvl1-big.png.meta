@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: dba114a418ab1d647a4c106d22f074a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3170972255099137882
+    second: items-lvl1-big_0
+  - first:
+      213: 5486550676400160485
+    second: items-lvl1-big_1
+  - first:
+      213: 5519459774486519089
+    second: items-lvl1-big_2
+  - first:
+      213: -3450472913632337815
+    second: items-lvl1-big_3
+  - first:
+      213: -1777287131118691602
+    second: items-lvl1-big_4
+  - first:
+      213: 1618692428024081843
+    second: items-lvl1-big_5
+  - first:
+      213: -5759700276740197411
+    second: items-lvl1-big_6
+  - first:
+      213: 3833066775806359474
+    second: items-lvl1-big_7
+  - first:
+      213: 2847352391564915590
+    second: items-lvl1-big_8
+  - first:
+      213: 265078899237949913
+    second: items-lvl1-big_9
+  - first:
+      213: -6841143564045244649
+    second: items-lvl1-big_10
+  - first:
+      213: 5932060538810023794
+    second: items-lvl1-big_11
+  - first:
+      213: 3515942985650642002
+    second: items-lvl1-big_12
+  - first:
+      213: 9089695068515497954
+    second: items-lvl1-big_13
+  - first:
+      213: 5278404070497525128
+    second: items-lvl1-big_14
+  - first:
+      213: -8318330328279806048
+    second: items-lvl1-big_15
+  - first:
+      213: 2293452156697010067
+    second: items-lvl1-big_16
+  - first:
+      213: 4129610506120387871
+    second: items-lvl1-big_17
+  - first:
+      213: -1299940792771172516
+    second: items-lvl1-big_18
+  - first:
+      213: 1057578499049446642
+    second: items-lvl1-big_19
+  - first:
+      213: 4849826289776254975
+    second: items-lvl1-big_20
+  - first:
+      213: 1958083240796541184
+    second: items-lvl1-big_21
+  - first:
+      213: 2480663612219047565
+    second: items-lvl1-big_22
+  - first:
+      213: -7503858745309488006
+    second: items-lvl1-big_23
+  - first:
+      213: 4071921052360443268
+    second: items-lvl1-big_24
+  - first:
+      213: -7568631188262284545
+    second: items-lvl1-big_25
+  - first:
+      213: 1168529749044794785
+    second: items-lvl1-big_26
+  - first:
+      213: -8067244458506085839
+    second: items-lvl1-big_27
+  - first:
+      213: -7828908458492509525
+    second: items-lvl1-big_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: items-lvl1-big_0
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 532
+        width: 433
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05236d8817ef3d0800000000000000
+      internalID: -3170972255099137882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1047
+        width: 85
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeb20d65c4242c40800000000000000
+      internalID: 5486550676400160485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1040
+        width: 67
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d935aeb6f099c40800000000000000
+      internalID: 5519459774486519089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 468
+        width: 340
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96066db9a257d10d0800000000000000
+      internalID: -3450472913632337815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1032
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1ccd45cec557e0800000000000000
+      internalID: -1777287131118691602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_5
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1031
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd6df4ef20c67610800000000000000
+      internalID: 1618692428024081843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 568
+        width: 419
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37e205d1f6110b0800000000000000
+      internalID: -5759700276740197411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 959
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73a449ce9c13530800000000000000
+      internalID: 3833066775806359474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_8
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 951
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f5990ae3d38720800000000000000
+      internalID: 2847352391564915590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 921
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1978abadfbda300800000000000000
+      internalID: 265078899237949913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 888
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71722a7ac206f01a0800000000000000
+      internalID: -6841143564045244649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 860
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f32e171a9e25250800000000000000
+      internalID: 5932060538810023794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 809
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c9b3664832bc030800000000000000
+      internalID: 3515942985650642002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_13
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 581
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e77c7b6185152e70800000000000000
+      internalID: 9089695068515497954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_14
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 556
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d1bf23988a04940800000000000000
+      internalID: 5278404070497525128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 534
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af068a83aa5f8c80800000000000000
+      internalID: -8318330328279806048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 525
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5745d59af3df10800000000000000
+      internalID: 2293452156697010067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_17
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 489
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd60e20e25f4930800000000000000
+      internalID: 4129610506120387871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 505
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57a5d18cbea5fde0800000000000000
+      internalID: -1299940792771172516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_19
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 457
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcdee5aa064dae00800000000000000
+      internalID: 1057578499049446642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 946
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd678a05b0e4340800000000000000
+      internalID: 4849826289776254975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_21
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 432
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d25845528c2b10800000000000000
+      internalID: 1958083240796541184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 418
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebd8589661d6220800000000000000
+      internalID: 2480663612219047565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_23
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 20
+        width: 435
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9e117a30fcd790800000000000000
+      internalID: -7503858745309488006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_24
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 376
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48501678f9e528830800000000000000
+      internalID: 4071921052360443268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_25
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 13
+        width: 422
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21fabd802d6f690800000000000000
+      internalID: -7568631188262284545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a59a499d93773010800000000000000
+      internalID: 1168529749044794785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_27
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 32
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a918638e36b0090800000000000000
+      internalID: -8067244458506085839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items-lvl1-big_28
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 14
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c0808c312a5390800000000000000
+      internalID: -7828908458492509525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      items-lvl1-big_0: -3170972255099137882
+      items-lvl1-big_1: 5486550676400160485
+      items-lvl1-big_10: -6841143564045244649
+      items-lvl1-big_11: 5932060538810023794
+      items-lvl1-big_12: 3515942985650642002
+      items-lvl1-big_13: 9089695068515497954
+      items-lvl1-big_14: 5278404070497525128
+      items-lvl1-big_15: -8318330328279806048
+      items-lvl1-big_16: 2293452156697010067
+      items-lvl1-big_17: 4129610506120387871
+      items-lvl1-big_18: -1299940792771172516
+      items-lvl1-big_19: 1057578499049446642
+      items-lvl1-big_2: 5519459774486519089
+      items-lvl1-big_20: 4849826289776254975
+      items-lvl1-big_21: 1958083240796541184
+      items-lvl1-big_22: 2480663612219047565
+      items-lvl1-big_23: -7503858745309488006
+      items-lvl1-big_24: 4071921052360443268
+      items-lvl1-big_25: -7568631188262284545
+      items-lvl1-big_26: 1168529749044794785
+      items-lvl1-big_27: -8067244458506085839
+      items-lvl1-big_28: -7828908458492509525
+      items-lvl1-big_3: -3450472913632337815
+      items-lvl1-big_4: -1777287131118691602
+      items-lvl1-big_5: 1618692428024081843
+      items-lvl1-big_6: -5759700276740197411
+      items-lvl1-big_7: 3833066775806359474
+      items-lvl1-big_8: 2847352391564915590
+      items-lvl1-big_9: 265078899237949913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
